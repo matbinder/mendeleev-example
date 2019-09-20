@@ -4,3 +4,4 @@ dependencies:
 - python
 - bokeh
 - mendeleev
+- seaborn
